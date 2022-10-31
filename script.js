@@ -7,3 +7,4 @@ function min(a, b) {
         return b;
       }
     }
+    alert(a, b);
